@@ -3,8 +3,8 @@
 ![deepseek_mermaid_20250512_f9f196](https://github.com/user-attachments/assets/faa40aae-504b-48df-825c-41a67c5222f6)
 🔍 Repository Overview <br>
 ->**Skills Demonstrated:** <br>
-     Power BI . <br>
-     Tableau. <br>
+         Power BI . <br>
+         Tableau. <br>
 # 1.Power BI: Global Shipping Optimization   
 ![5](https://github.com/user-attachments/assets/760e0d57-7b2c-4477-907a-c4d59daabf38)
 # 📊 Data Visualization Summary
