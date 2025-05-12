@@ -1,10 +1,10 @@
 # Business-Data-Analytics-Masterclass-Projects
 # From raw data to strategic insights - A 3-day intensive journey with BCET
 ![deepseek_mermaid_20250512_f9f196](https://github.com/user-attachments/assets/faa40aae-504b-48df-825c-41a67c5222f6)
-🔍 Repository Overview
-->**Skills Demonstrated:**
-     Power BI .
-     Tableau.
+🔍 Repository Overview <br>
+->**Skills Demonstrated:** <br>
+     Power BI . <br>
+     Tableau. <br>
 # 1.Power BI: Global Shipping Optimization   
 ![5](https://github.com/user-attachments/assets/760e0d57-7b2c-4477-907a-c4d59daabf38)
 # 📊 Data Visualization Summary
