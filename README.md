@@ -25,6 +25,7 @@ Highlights product-wise shifts in revenue. Milk Bars contributed positively, whi
     📈 January revenue peak: $872,900.
 # 2. Tableau: US Profitability Heatmap
 ![4](https://github.com/user-attachments/assets/b9feb587-1fc2-4ea8-9cfb-faa657ab07e4)
+
 Sales & Profit Analysis Dashboard
 
 🗺️ **Profit Map by State:**
