@@ -24,7 +24,7 @@ Highlights product-wise shifts in revenue. Milk Bars contributed positively, whi
     🏆 Australia led shipments (32,112 boxes).
     🚨 White Choc underperformed (28% below category avg).
     📈 January revenue peak: $872,900.
-#2. Tableau: US Profitability Heatmap
+# 2. Tableau: US Profitability Heatmap
 ![4](https://github.com/user-attachments/assets/b9feb587-1fc2-4ea8-9cfb-faa657ab07e4)
 Sales & Profit Analysis Dashboard
 🗺️ Profit Map by State:
@@ -61,7 +61,7 @@ o	Highest Sales: Chairs (~300K) and Tables (~250K) dominate.
 o	Lowest Sales: Bookcases and Furnishings (labels truncated) show minimal revenue (~50K or below).
 o	Actionable Insight: Focus on promoting high-demand sub-categories (Chairs/Tables) or investigate low performers for improvement.
 
-🔗 View Dashboard on Tableau Public: [link here]([https://public.tableau.com/views/Book3_17469775123150/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Project3_ohee/ProductSub-CategorySales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+🔗 View Dashboard on Tableau Public: [link here](https://public.tableau.com/views/Project3_ohee/ProductSub-CategorySales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Project3_ohee/ProductSub-CategorySales?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 
 # 🌟 Let’s Build the Future of Data Together!
