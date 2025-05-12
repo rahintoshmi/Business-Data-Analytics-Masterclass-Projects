@@ -19,8 +19,7 @@ Line chart reveals peaks in January and June, with a dip in April. Indicates sea
 
 📉 Waterfall Chart (Feb Revenue Change):
 Highlights product-wise shifts in revenue. Milk Bars contributed positively, while 99% Dark and After Nines showed declines—resulting in a net drop.
-#Insights Uncovered:
-
+# Insights Uncovered:
     🏆 Australia led shipments (32,112 boxes).
     🚨 White Choc underperformed (28% below category avg).
     📈 January revenue peak: $872,900.
@@ -47,16 +46,18 @@ Breaks down sales and profit. High sales in Phones, Tables, and Chairs; Accessor
 Data-to-decisions in 72 hours – Power BI & Tableau showcase
 ![deepseek_mermaid_20250512_e14b66](https://github.com/user-attachments/assets/6489b6c6-dd4c-483d-a987-9b959c2e6545)
 # 3.Tableau: Category & Sub-Category Performance
+
 ![2](https://github.com/user-attachments/assets/bbd671f4-a8b7-45f7-93cf-9af246e62a1a)
-Product Category Sales Overview
-•	Purpose: Compares sales performance across major product categories (Furniture, Office Supplies, Technology).
-•	Key Observations:
+
+**Product Category Sales Overview**
+•	**Purpose:** Compares sales performance across major product categories (Furniture, Office Supplies, Technology). <br>
+•	**Key Observations:** <br>
 Only "Technology" category is visible in the snippet, suggesting it may have the highest sales or focus.Incomplete data hints at a broader comparison (likely Furniture and Technology are other categories).
 
 ![1](https://github.com/user-attachments/assets/3509b1a6-76d8-49e3-aaca-07c69b0548fc)
-Product Sub-Category Sales :
-•	Purpose: Breaks down Furniture category sales by sub-categories (e.g., Bookcases, Chairs, Tables).
-•	Key Observations:
+**Product Sub-Category Sales :**
+•  **Purpose:** Breaks down Furniture category sales by sub-categories (e.g., Bookcases, Chairs, Tables).<br>
+•	**Key Observations:** <br>
 o	Highest Sales: Chairs (~300K) and Tables (~250K) dominate.
 o	Lowest Sales: Bookcases and Furnishings (labels truncated) show minimal revenue (~50K or below).
 o	Actionable Insight: Focus on promoting high-demand sub-categories (Chairs/Tables) or investigate low performers for improvement.
