@@ -72,4 +72,4 @@ o	**Actionable Insight:** Focus on promoting high-demand sub-categories (Chairs/
 This masterclass was just the beginning. I’m now combining these analytical skills with my passion for AI/ML to create even more impactful data solutions.
 # 📬 Connect & Collaborate
 🔗 Linkdin [Link here](https://www.linkedin.com/posts/rahin-toshmi-ohee-457050335_professor-prof-dataanalytics-activity-7327576007329177601-Fj2N?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQwp4MBSzaNhDZ2yzJmxIP3eYgpud4p-Tc)
-🔗 Medium [link Here]([https://medium.com/@2204ohee/from-classroom-to-dashboard-my-3-day-business-data-analytics-transformation-286b1b3fadb7](https://medium.com/@2204ohee/from-classroom-to-dashboard-my-3-day-business-data-analytics-transformation-286b1b3fadb7))
+🔗 Medium [link Here](https://medium.com/@2204ohee/from-classroom-to-dashboard-my-3-day-business-data-analytics-transformation-286b1b3fadb7](https://medium.com/@2204ohee/from-classroom-to-dashboard-my-3-day-business-data-analytics-transformation-286b1b3fadb7)
